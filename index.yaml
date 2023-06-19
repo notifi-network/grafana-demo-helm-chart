@@ -3,12 +3,12 @@ entries:
   demo:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-06-19T17:22:40.597771104-03:00"
+    created: "2023-06-19T17:29:36.52987736-03:00"
     description: A Helm chart for Kubernetes
-    digest: 4501538f7633564985c0f02d51323222a2e7e55716400208b9fe858280502043
+    digest: 654859a333aa179a87a70e2a51e62972ee92cafc52f6b060978a8b6e60c2c435
     name: demo
     type: application
     urls:
     - https://notifi-network.github.io/grafana-demo-helm-chart/demo-0.1.0.tgz
     version: 0.1.0
-generated: "2023-06-19T17:22:40.597247865-03:00"
+generated: "2023-06-19T17:29:36.529237844-03:00"
