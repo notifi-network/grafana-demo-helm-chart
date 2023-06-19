@@ -9,6 +9,6 @@ entries:
     name: demo
     type: application
     urls:
-    - https://github.com/notifi-network/helm-chart/demo-0.1.0.tgz
+    - https://github.com/notifi-network/grafana-demo-helm-chart/demo-0.1.0.tgz
     version: 0.1.0
 generated: "2023-06-19T16:56:57.087575955-03:00"
